@@ -11,7 +11,7 @@ public class Calcolatrice {
         Calcolatrice c = new Calcolatrice();
 
         System.out.println(c.Somma(5.0, 10.0));
-        System.out.println("b");
+        System.out.println("c");
     }
 }
 
